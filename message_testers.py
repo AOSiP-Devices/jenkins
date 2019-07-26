@@ -16,6 +16,7 @@ testers = {
     'dumpling': ['divadsn', 'HydroPetro'],
     'enchilada': ['anirudhgupta109', 'ohayoubaka', 'MrWilsonxD'],
     'fajita': ['nezorflame', 'ironhydee', 'gautamhans1'],
+    'jasmine_sprout': ['Artsarino', 'pqhaz'],
     'kiwi': ['coldhans'],
     'mata': ['KuranKaname', 'Y45HW4N7'],
     'mido': ['Adesh15'],
