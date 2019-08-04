@@ -8,7 +8,7 @@ if len(argv) != 2:
 
 testers = {
     'berkeley': ['srisurya95'],
-    'beryllium': ['akhilnarang', 'grewal'],
+    'beryllium': ['akhilnarang', 'grewal', 'gr0ndpa', 'Rokban'],
     'bullhead': ['anirudhgupta109', 'Skittles8923'],
     'cheeseburger': ['HydroPetro', 'fryevia'],
     'crosshatch': ['Fire69Flame'],
