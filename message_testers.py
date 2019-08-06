@@ -8,7 +8,7 @@ if len(argv) != 2:
 
 testers = {
     'berkeley': ['srisurya95'],
-    'beryllium': ['akhilnarang', 'grewal', 'gr0ndpa', 'Rokban'],
+    'beryllium': ['akhilnarang', 'grewal', 'gr0ndpa', 'Rokban', 'LucentW'],
     'bullhead': ['anirudhgupta109', 'Skittles8923'],
     'cheeseburger': ['HydroPetro', 'fryevia'],
     'crosshatch': ['Fire69Flame'],
@@ -25,8 +25,8 @@ testers = {
     'potter': ['NickvBokhorst'],
     'whyred': ['iwantz', 'raiadventures', 'ahmed_tohamy', 'Sanchith_Hegde', 'anunaym14_bot', 'bohrabhijeet', 'ZTR23'],
     'x2': ['moto999999'],
-    'z2_plus': ['Pavan_Paps'],
-    'zl1': ['Gabronog']
+    'z2_plus': ['Pavan_Paps', 'panicker666'],
+    'zl1': ['Gabronog', 'LucentW']
 }
 
 device = argv[1]
