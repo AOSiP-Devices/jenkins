@@ -10,7 +10,7 @@ testers = {
     'berkeley': ['srisurya95'],
     'beryllium': ['akhilnarang', 'grewal', 'gr0ndpa', 'Rokban', 'LucentW'],
     'bullhead': ['anirudhgupta109', 'Skittles8923'],
-    'cheeseburger': ['HydroPetro', 'fryevia'],
+    'cheeseburger': ['HydroPetro', 'fryevia', 'gotenksIN'],
     'crosshatch': ['Fire69Flame'],
     'dipper': ['argraur'],
     'dumpling': ['divadsn', 'HydroPetro'],
