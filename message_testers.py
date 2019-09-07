@@ -14,7 +14,7 @@ testers = {
     'crosshatch': ['Fire69Flame'],
     'dipper': ['argraur'],
     'dumpling': ['divadsn', 'HydroPetro'],
-    'enchilada': ['anirudhgupta109', 'ohayoubaka', 'MrWilsonxD'],
+    'enchilada': ['anirudhgupta109', 'ohayoubaka', 'MrWilsonxD', 'ronell1292k'],
     'fajita': ['ironhydee', 'gautamhans1'],
     'guacamole': ['nezorflame'],
     'jasmine_sprout': ['Artsarino', 'pqhaz', 'kenny3fcb'],
