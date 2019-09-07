@@ -8,7 +8,7 @@ if len(argv) != 2:
 
 testers = {
     'berkeley': ['srisurya95'],
-    'beryllium': ['akhilnarang', 'grewal', 'gr0ndpa', 'Rokban', 'LucentW'],
+    'beryllium': ['akhilnarang', 'grewal', 'gr0ndpa', 'Rokban', 'LucentW', 'ZTR23'],
     'bullhead': ['anirudhgupta109', 'Skittles8923'],
     'cheeseburger': ['HydroPetro', 'fryevia', 'gotenksIN'],
     'crosshatch': ['Fire69Flame'],
@@ -25,7 +25,7 @@ testers = {
     'platina': ['nysadev'],
     'potter': ['NickvBokhorst', 'Deadpool_61'],
     'wayne': ['DarkAmy', 'muumen'],
-    'whyred': ['iwantz', 'raiadventures', 'ahmed_tohamy', 'Sanchith_Hegde', 'anunaym14', 'bohrabhijeet', 'ZTR23'],
+    'whyred': ['iwantz', 'ahmed_tohamy', 'Sanchith_Hegde', 'anunaym14', 'akhilnarang', 'msfjarvis'],
     'x2': ['moto999999'],
     'z2_plus': ['Pavan_Paps', 'panicker666'],
     'zl1': ['Gabronog', 'LucentW']
