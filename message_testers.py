@@ -3,7 +3,7 @@
 from sys import argv
 
 if len(argv) != 2:
-    print(f"Usage: {argv[0]} <codename>")
+    print("Usage: {} <codename>".format(argv[0]))
     exit(1)
 
 testers = {
@@ -37,7 +37,7 @@ message = ""
 
 if device in testers.keys():
     for tester in testers[device]:
-        message += f'@{tester} '
+        message += '@{} '.format(tester)
     print(message)
 else:
-    print(f"Wrong device {device}(?)")
+    print("Wrong device {}(?)".format(device))
