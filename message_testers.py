@@ -24,7 +24,7 @@ testers = {
     'platina': ['nysadev'],
     'potter': ['NickvBokhorst', 'Deadpool_61'],
     'wayne': ['kenny3fcb'],
-    'whyred': ['iwantz', 'ahmed_tohamy', 'Sanchith_Hegde', 'anunaym14', 'akhilnarang', 'msfjarvis', 'M86xKC'],
+    'whyred': ['iwantz', 'ahmed_tohamy', 'Sanchith_Hegde', 'anunaym14', 'M86xKC'],
     'x2': ['moto999999'],
     'z2_plus': ['Pavan_Paps', 'panicker666'],
     'zl1': ['Gabronog', 'LucentW']
