@@ -7,21 +7,11 @@ if len(argv) != 2:
     exit(1)
 
 testers = {
-    "berkeley": ["srisurya95"],
     "beryllium": ["akhilnarang", "grewal", "gr0ndpa", "Rokban", "LucentW", "ZTR23"],
-    "bullhead": ["anirudhgupta109", "Skittles8923"],
-    "cheeseburger": ["HydroPetro", "fryevia", "gotenksIN"],
-    "crosshatch": ["Fire69Flame"],
     "dipper": ["argraur"],
-    "dumpling": ["divadsn", "HydroPetro"],
     "enchilada": ["anirudhgupta109", "ohayoubaka", "MrWilsonxD", "ronell1292k"],
     "fajita": ["ironhydee", "gautamhans1"],
-    "guacamole": ["nezorflame"],
-    "kiwi": ["coldhans"],
     "mata": ["KuranKaname", "Y45HW4N7"],
-    "mido": ["Adesh15"],
-    "oneplus3": ["HydroPetro", "theshinybeast", "nezorflame"],
-    "platina": ["nysadev"],
     "potter": ["NickvBokhorst", "Deadpool_61"],
     "rapheal": ["ai94iq", "gr0ndpa", "Pavan_Paps"],
     "wayne": ["kenny3fcb"],
