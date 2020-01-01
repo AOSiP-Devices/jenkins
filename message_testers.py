@@ -23,8 +23,9 @@ testers = {
     'oneplus3': ['HydroPetro', 'theshinybeast', 'nezorflame'],
     'platina': ['nysadev'],
     'potter': ['NickvBokhorst', 'Deadpool_61'],
+    'rapheal': ['ai94iq', 'gr0ndpa', 'Pavan_Paps'],
     'wayne': ['kenny3fcb'],
-    'whyred': ['iwantz', 'ahmed_tohamy', 'Sanchith_Hegde', 'anunaym14', 'M86xKC'],
+    'whyred': ['iwantz', 'ahmed_tohamy', 'Sanchith_Hegde', 'anunaym14', 'Pavan_Paps'],
     'x2': ['moto999999'],
     'z2_plus': ['Pavan_Paps', 'panicker666'],
     'zl1': ['Gabronog', 'LucentW']
