@@ -9,8 +9,9 @@ if len(argv) != 2:
 testers = {
     "beryllium": ["akhilnarang", "grewal", "gr0ndpa", "Rokban", "LucentW", "ZTR23"],
     "dipper": ["argraur"],
-    "enchilada": ["anirudhgupta109", "ohayoubaka", "MrWilsonxD", "ronell1292k"],
-    "fajita": ["ironhydee", "gautamhans1"],
+    "enchilada": ["anirudhgupta109", "ronell1292k"],
+    "fajita": ["ironhydee", "gautamhans1", "edi194"],
+    "hotdogb": ["anirudhgupta109"],
     "mata": ["KuranKaname", "Y45HW4N7"],
     "potter": ["NickvBokhorst", "Deadpool_61"],
     "rapheal": ["ai94iq", "gr0ndpa", "Pavan_Paps"],
