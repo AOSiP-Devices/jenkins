@@ -12,6 +12,7 @@ testers = {
     "enchilada": ["anirudhgupta109", "ronell1292k"],
     "fajita": ["ironhydee", "gautamhans1", "edi194"],
     "hotdogb": ["anirudhgupta109"],
+    'jasmine_sprout': ['Artsarino', 'kenny3fcb'],
     "mata": ["KuranKaname", "Y45HW4N7"],
     "potter": ["NickvBokhorst", "Deadpool_61"],
     "rapheal": ["ai94iq", "gr0ndpa", "Pavan_Paps"],
