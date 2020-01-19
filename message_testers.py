@@ -16,7 +16,7 @@ testers = {
     'jasmine_sprout': ['Artsarino', 'kenny3fcb'],
     "mata": ["KuranKaname", "Y45HW4N7"],
     "potter": ["NickvBokhorst", "Deadpool_61"],
-    "rapheal": ["ai94iq", "gr0ndpa", "Pavan_Paps"],
+    "raphael": ["ai94iq", "gr0ndpa", "Pavan_Paps"],
     "wayne": ["kenny3fcb"],
     "whyred": ["iwantz", "ahmed_tohamy", "Sanchith_Hegde", "anunaym14", "Pavan_Paps"],
     "x2": ["moto999999"],
