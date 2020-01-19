@@ -8,14 +8,16 @@ if len(argv) != 2:
 
 testers = {
     "beryllium": ["akhilnarang", "grewal", "gr0ndpa", "Rokban", "LucentW", "ZTR23"],
+    "cheeseburger": ["gotenksIN", "HydroPetro"],
     "dipper": ["argraur"],
+    "dumpling": ["HydroPetro", "edi194"]
     "enchilada": ["anirudhgupta109", "ronell1292k"],
     "fajita": ["ironhydee", "gautamhans1", "edi194"],
     "hotdogb": ["anirudhgupta109"],
     'jasmine_sprout': ['Artsarino', 'kenny3fcb'],
     "mata": ["KuranKaname", "Y45HW4N7"],
     "potter": ["NickvBokhorst", "Deadpool_61"],
-    "rapheal": ["ai94iq", "gr0ndpa", "Pavan_Paps"],
+    "raphael": ["ai94iq", "gr0ndpa", "Pavan_Paps"],
     "wayne": ["kenny3fcb"],
     "whyred": ["iwantz", "ahmed_tohamy", "Sanchith_Hegde", "anunaym14", "Pavan_Paps"],
     "x2": ["moto999999"],
