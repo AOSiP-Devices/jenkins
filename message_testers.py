@@ -21,7 +21,6 @@ testers = {
     "potter": ["NickvBokhorst", "Deadpool_61"],
     "raphael": [
         "ai94iq",
-        "akhilnarang",
         "BaaDNwZ",
         "devanshbajaj",
         "gr0ndpa",
