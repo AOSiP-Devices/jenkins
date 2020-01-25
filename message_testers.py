@@ -20,6 +20,7 @@ testers = {
     "mata": ["KuranKaname", "Y45HW4N7"],
     "potter": ["NickvBokhorst", "Deadpool_61"],
     "raphael": ["ai94iq", "gr0ndpa", "Pavan_Paps"],
+    "sargo": ["Skittles9823"],
     "wayne": ["kenny3fcb"],
     "whyred": ["iwantz", "ahmed_tohamy", "Sanchith_Hegde", "anunaym14", "Pavan_Paps"],
     "x2": ["moto999999"],
