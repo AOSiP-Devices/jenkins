@@ -15,6 +15,7 @@ testers = {
     "dumpling": ["HydroPetro", "edi194"],
     "enchilada": ["anirudhgupta109", "ronell1292k"],
     "fajita": ["ironhydee", "gautamhans1", "edi194"],
+    "guacamole": ["anirudhgupta109", "RandomPooka", "nezorflame"],
     "hotdogb": ["anirudhgupta109"],
     "jasmine_sprout": ["Artsarino", "kenny3fcb"],
     "mata": ["KuranKaname", "Y45HW4N7"],
