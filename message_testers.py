@@ -31,6 +31,7 @@ testers = {
     ],
     "sargo": ["Skittles9823"],
     "taimen": ["Eamo5"],
+    "walleye": ["Eamo5", "repopic"],
     "wayne": ["kenny3fcb"],
     "whyred": ["iwantz", "ahmed_tohamy", "Sanchith_Hegde", "anunaym14", "Pavan_Paps"],
     "x2": ["moto999999"],
