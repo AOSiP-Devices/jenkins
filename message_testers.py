@@ -37,9 +37,9 @@ testers = {
     'walleye': ['Eamo5', 'repopic'],
     'wayne': ['kenny3fcb'],
     'whyred': ['iwantz', 'ahmed_tohamy', 'Sanchith_Hegde', 'anunaym14', 'Pavan_Paps'],
-    'x2': ['moto999999'],
+    'x2': ['moto999999', 'agustindev'],
     'z2_plus': ['Pavan_Paps', 'panicker666'],
-    'zl1': ['Gabronog', 'LucentW'],
+    'zl1': ['Gabronog', 'LucentW', 'agustindev'],
 }
 
 device = argv[1]
