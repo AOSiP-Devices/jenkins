@@ -28,7 +28,7 @@ testers = {
         'BaaDNwZ',
         'devanshbajaj',
         'gr0ndpa',
-        'itsharhash',
+        'Lacentix',
         'M86xKC',
         'Pavan_Paps',
     ],
