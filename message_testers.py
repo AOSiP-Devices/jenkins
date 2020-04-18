@@ -31,6 +31,7 @@ testers = {
         'Lacentix',
         'M86xKC',
         'Pavan_Paps',
+        'panicker666'
     ],
     'sargo': ['Skittles9823'],
     'taimen': ['Eamo5'],
