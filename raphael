@@ -1,1 +1,1 @@
--t fod-stuff ten-fod | 11993 11994 12059 12130
+-t fod-stuff ten-fod | 11993 11994 12059 12130 | -g ssh://kronic@review.aosip.dev -t thermal
