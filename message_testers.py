@@ -17,7 +17,7 @@ testers = {
     'fajita': ['ironhydee', 'gautamhans1', 'edi194'],
     'guacamole': ['anirudhgupta109', 'RandomPooka', 'nezorflame'],
     'guacamoleb': ['AshwinRC'],
-    'hotdogb': ['anirudhgupta109'],
+    'hotdogb': ['anirudhgupta109', 'DioKiwi', 'McConvict', 'georgemath24'],
     'jasmine_sprout': ['Artsarino', 'kenny3fcb'],
     'mata': ['KuranKaname', 'Y45HW4N7'],
     'perseus': ['mjevange'],
@@ -31,6 +31,7 @@ testers = {
         'Lacentix',
         'M86xKC',
         'Pavan_Paps',
+        'panicker666'
     ],
     'sargo': ['Skittles9823'],
     'taimen': ['Eamo5'],
