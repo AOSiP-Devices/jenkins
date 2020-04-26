@@ -1,1 +1,1 @@
--t fod-stuff ten-fod | 11993 11994 12059 12130 | -q -g ssh://kronic@review.aosip.dev -t thermal priv-raphael-stuff | -q -g ssh://kronic@review.aosip.dev 12207 -P vendor/qcom/opensource/interfaces | -q -g ssh://kronic@review.aosip.dev 12206 -P vendor/qcom/opensource/audio
+-t fod-stuff ten-fod raphael-stuff | 11993 11994 12059 12130 | -q -g ssh://kronic@review.aosip.dev -t thermal priv-raphael-stuff | -q -g ssh://kronic@review.aosip.dev 12207 -P vendor/qcom/opensource/interfaces | -q -g ssh://kronic@review.aosip.dev 12206 -P vendor/qcom/opensource/audio
