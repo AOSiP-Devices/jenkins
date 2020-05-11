@@ -7,6 +7,7 @@ if len(argv) != 2:
     exit(1)
 
 testers = {
+    'I001D': ['Adesh15'],
     'beryllium': ['akhilnarang', 'grewal', 'gr0ndpa', 'Rokban', 'LucentW', 'ZTR23'],
     'bonito': ['Skittles9823'],
     'cheeseburger': ['gotenksIN', 'HydroPetro'],
