@@ -1,1 +1,1 @@
--q -t fod-stuff ten-fod | -q 12205 12200 12201 12263 12265 11993 11994 12130 | -q -g ssh://kronic@review.aosip.dev priv-raphael-stuff
+-q -t fod-stuff ten-fod | -q 12205 12200 12201 12263 12265 11993 11994 12130
