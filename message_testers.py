@@ -17,7 +17,6 @@ testers = {
     'enchilada': ['anirudhgupta109', 'ronell1292k'],
     'fajita': ['ironhydee', 'gautamhans1', 'edi194'],
     'guacamole': ['anirudhgupta109', 'RandomPooka', 'nezorflame'],
-    'guacamoleb': ['AshwinRC'],
     'hotdogb': ['anirudhgupta109', 'DioKiwi', 'McConvict', 'georgemath24'],
     'jasmine_sprout': ['kenny3fcb', 'muthu25'],
     'mata': ['KuranKaname', 'Y45HW4N7'],
