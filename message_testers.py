@@ -10,7 +10,7 @@ testers = {
     'I001D': ['Adesh15'],
     'beryllium': ['akhilnarang', 'grewal', 'gr0ndpa', 'Rokban', 'LucentW', 'ZTR23'],
     'bonito': ['Skittles9823'],
-    'cheeseburger': ['gotenksIN', 'idkwhoiam322', 'HydroPetro'],
+    'cheeseburger': ['gotenksIN', 'idkwhoiam322', 'fryevia', 'HydroPetro'],
     'coral': ['XlxFoXxlX', 'MrWilsonxD'],
     'dipper': ['argraur'],
     'dumpling': ['zorock', 'AnmolChawla', 'HydroPetro'],
