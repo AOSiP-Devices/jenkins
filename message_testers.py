@@ -20,6 +20,7 @@ testers = {
     'hotdogb': ['anirudhgupta109', 'DioKiwi', 'McConvict', 'georgemath24', 'subhaam'],
     'jasmine_sprout': ['kenny3fcb', 'muthu25'],
     'mata': ['KuranKaname', 'Y45HW4N7'],
+    'mido': ['Pavan_Paps'],
     'perseus': ['mjevange'],
     'phoenix': ['akhilnarang'],
     'potter': ['NickvBokhorst', 'Deadpool_61'],
