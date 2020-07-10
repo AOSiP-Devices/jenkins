@@ -38,7 +38,7 @@ testers = {
     'taimen': ['Eamo5'],
     'walleye': ['Eamo5', 'repopic'],
     'wayne': ['kenny3fcb'],
-    'whyred': ['iwantz', 'ahmed_tohamy', 'Sanchith_Hegde', 'Pavan_Paps'],
+    'whyred': ['iwantz', 'kekguy', 'Sanchith_Hegde', 'Pavan_Paps'],
     'x2': ['moto999999', 'agustindev'],
     'z2_plus': ['kenny3fcb', 'panicker666'],
     'zl1': ['Gabronog', 'LucentW', 'agustindev'],
