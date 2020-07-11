@@ -1,1 +1,1 @@
--t fod-stuff ten-fod bouncer-fod fod-extension raphael-stuff raphy | -g ssh://kronic@review.aosip.dev -t raphy-priv screen-off-fod
+-t fod-stuff ten-fod bouncer-fod fod-extension raphael-stuff raphy | -g ssh://kronic@review.aosip.dev -t raphy-priv
