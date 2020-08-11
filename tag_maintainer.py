@@ -12,6 +12,7 @@ maintainers = {
     'bonito': 'Skittles9823',
     'cheeseburger': 'gotenksIN',
     'coral': 'XlxFoXxlX',
+    'curtana': 'kenny3fcb',
     'dipper': 'argraur',
     'dumpling': 'gotenksIN',
     'enchilada': 'anirudhgupta109',
@@ -31,7 +32,6 @@ maintainers = {
     'wayne': 'kenny3fcb',
     'whyred': 'kenny3fcb',
     'x2': 'agustindev',
-    'z2_plus': 'kenny3fcb',
     'zl1': 'agustindev',
 }
 
