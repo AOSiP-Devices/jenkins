@@ -12,6 +12,7 @@ testers = {
     'bonito': ['Skittles9823'],
     'cheeseburger': ['gotenksIN'],
     'coral': ['XlxFoXxlX', 'MrWilsonxD'],
+    'curtana': ['kenny3fcb'],
     'dipper': ['argraur'],
     'dumpling': ['zorock', 'AnmolChawla', 'HydroPetro'],
     'enchilada': ['anirudhgupta109', 'ronell1292k', 'Giuseppe_Longobardo'],

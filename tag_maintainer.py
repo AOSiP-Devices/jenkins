@@ -12,6 +12,7 @@ maintainers = {
     'bonito': 'Skittles9823',
     'cheeseburger': 'gotenksIN',
     'coral': 'XlxFoXxlX',
+    'curtana': 'kenny3fcb',
     'dipper': 'argraur',
     'dumpling': 'gotenksIN',
     'enchilada': 'anirudhgupta109',
