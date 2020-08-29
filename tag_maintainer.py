@@ -17,6 +17,7 @@ maintainers = {
     'dumpling': 'gotenksIN',
     'enchilada': 'anirudhgupta109',
     'fajita': 'anirudhgupta109',
+    'flame': 'XlxFoXxlX',
     'guacamole': 'anirudhgupta109',
     'hotdogb': 'anirudhgupta109',
     'jasmine_sprout': 'kenny3fcb',
