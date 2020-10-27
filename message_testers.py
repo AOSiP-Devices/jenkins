@@ -11,7 +11,7 @@ testers = {
     'beryllium': ['akhilnarang', 'grewal', 'gr0ndpa', 'Rokban', 'LucentW', 'ZTR23'],
     'bonito': ['Skittles9823'],
     'cheeseburger': ['gotenksIN'],
-    'coral': ['XlxFoXxlX', 'MrWilsonxD'],
+    'coral': ['XlxFoXxlX'],
     'curtana': ['kenny3fcb'],
     'dipper': ['argraur'],
     'dumpling': ['zorock', 'AnmolChawla', 'HydroPetro'],
