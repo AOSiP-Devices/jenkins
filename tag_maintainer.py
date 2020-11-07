@@ -19,7 +19,7 @@ maintainers = {
     'fajita': 'anirudhgupta109',
     'flame': 'XlxFoXxlX',
     'guacamole': 'anirudhgupta109',
-    'hotdogb': 'anirudhgupta109',
+    'hotdogb': '',
     'jasmine_sprout': 'kenny3fcb',
     'mata': 'KuranKaname',
     'miatoll': 'kenny3fcb',
