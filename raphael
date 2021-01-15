@@ -1,1 +1,1 @@
--t eleven-fod-raph r-raphael-stuff eleven-sn-hax | 292609 -P hardware/qcom-caf/sm8150/media --gerrit https://review.lineageos.org -f
+-t eleven-fod-raph r-raphael-stuff eleven-sn-hax | -f 292609 -P hardware/qcom-caf/sm8150/media --gerrit https://review.lineageos.org
