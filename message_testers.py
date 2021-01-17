@@ -37,7 +37,7 @@ testers = {
         'GodsAmongU',
         'panicker666',
         'ZERJ23',
-        'Pavan_Paps',
+        'pavanpaps',
     ],
     'sargo': ['Skittles9823'],
     'taimen': ['Eamo5'],
