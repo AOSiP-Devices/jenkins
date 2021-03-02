@@ -22,6 +22,7 @@ testers = {
         'Pavan_Paps',
     ],
     'fajita': ['ironhydee', 'gautamhans1', 'edi194'],
+    'gauguin': ['grewal'],
     'guacamole': ['RandomPooka', 'nezorflame', 'gotenksIN'],
     'hotdogb': ['McConvict', 'georgemath24', 'gotenksIN'],
     'jasmine_sprout': ['muthu25'],

@@ -18,6 +18,7 @@ maintainers = {
     'enchilada': 'anirudhgupta109',
     'fajita': 'anirudhgupta109',
     'flame': 'XlxFoXxlX',
+    'gauguin': 'grewal',
     'guacamole': 'gotenksIN',
     'hotdogb': 'gotenksIN',
     'jasmine_sprout': 'kenny3fcb',
