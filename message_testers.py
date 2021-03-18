@@ -12,7 +12,6 @@ testers = {
     'bonito': ['Skittles9823'],
     'cheeseburger': ['gotenksIN'],
     'coral': ['XlxFoXxlX'],
-    'curtana': ['kenny3fcb'],
     'dipper': ['argraur'],
     'dumpling': ['zorock', 'AnmolChawla', 'HydroPetro'],
     'enchilada': [
@@ -27,7 +26,6 @@ testers = {
     'hotdogb': ['McConvict', 'georgemath24', 'gotenksIN'],
     'jasmine_sprout': ['muthu25'],
     'mata': ['KuranKaname', 'Y45HW4N7'],
-    'miatoll': ['kenny3fcb'],
     'mido': [],
     'perseus': ['mjevange'],
     'phoenix': ['akhilnarang', 'Harmanpreet_Singh'],
@@ -43,7 +41,6 @@ testers = {
     'sargo': ['Skittles9823'],
     'taimen': ['Eamo5'],
     'walleye': ['Eamo5', 'repopic'],
-    'wayne': ['kenny3fcb'],
     'whyred': ['iwantz', 'kekguy', 'Sanchith_Hegde', 'Pavan_Paps', 'DioKiwi'],
     'x2': ['moto999999', 'agustindev'],
     'z2_plus': ['panicker666'],
