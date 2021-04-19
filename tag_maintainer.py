@@ -35,5 +35,11 @@ maintainers = {
 
 device = argv[1]
 
-maintainer = maintainers.get(device, 'KronicBot')
-print(f'@{maintainer} fix {device} build please!')
+blamelist = ''
+
+if device in maintainers.keys():
+    for maintainers in maintainers[device]:
+        blamelist += '@{} '.format(maintainers)
+else:
+    blamelist += '@KronicBot '
+print(f'{blamelist}fix {device} build please!')
