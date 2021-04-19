@@ -52,8 +52,6 @@ device = argv[1]
 message = ''
 
 if device in testers.keys():
-    for tester in testers[device]:
-        message += '@{} '.format(tester)
-    print(message)
+    print("@", ", @".join(testers[device]), sep='')
 else:
     print('Wrong device {}(?)'.format(device))
