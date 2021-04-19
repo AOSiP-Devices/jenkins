@@ -19,7 +19,7 @@ maintainers = {
     'flame': 'XlxFoXxlX',
     'gauguin': 'grewal',
     'guacamole': 'gotenksIN',
-    'hotdogb': 'gotenksIN',
+    'hotdogb': ['anirudhgupta109', 'gotenksIN'],
     'mata': 'KuranKaname',
     'mido': 'Adesh15',
     'perseus': 'mjevange',
