@@ -36,7 +36,7 @@ maintainers = {
 device = argv[1]
 
 if device in maintainers.keys():
-    blamelist = ', @'.join(maintainers[device])
+    blamelist = ', @'.join(maintainers[device]) if isinstance(maintainers[device], list) else maintainers[device]
 else:
-    blamelist = 'KronicBot '
+    blamelist = 'KronicBot'
 print(f'@{blamelist} fix {device} build please!')
