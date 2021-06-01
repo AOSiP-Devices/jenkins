@@ -28,7 +28,7 @@ testers = {
     'mata': ['KuranKaname', 'Y45HW4N7'],
     'mido': [],
     'perseus': ['mjevange'],
-    'phoenix': ['akhilnarang', 'Harmanpreet_Singh'],
+    'phoenix': ['akhilnarang', 'Harmanpreet_Singh', 'TheDemon12'],
     'potter': ['NickvBokhorst', 'Deadpool_61'],
     'raphael': [
         'Ayushd70',
