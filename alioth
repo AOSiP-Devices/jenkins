@@ -1,1 +1,1 @@
--t refresh_rate | -g https://review.lineageos.org 313449 -P hardware/qcom-caf/sm8150/display
+-t refresh_rate
